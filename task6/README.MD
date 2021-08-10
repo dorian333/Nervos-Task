@@ -7,4 +7,4 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 ## 4. A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed.
 [https://rinkeby.etherscan.io/tx/0xf7656b535f2e63b4081b4c9ce2f55c987329c44c21e7d25759730377225c0975](https://rinkeby.etherscan.io/tx/0xf7656b535f2e63b4081b4c9ce2f55c987329c44c21e7d25759730377225c0975)
 ## 5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
-[https://explorer.nervos.org/aggron/transaction/](https://explorer.nervos.org/aggron/transaction/)
+[https://explorer.nervos.org/aggron/transaction/0x993af687a7d7111b472e36edf4d067c74193da59600e988a8ec8bdf7cc500e7f](https://explorer.nervos.org/aggron/transaction/0x993af687a7d7111b472e36edf4d067c74193da59600e988a8ec8bdf7cc500e7f)
